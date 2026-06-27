@@ -1,0 +1,6 @@
+my_tuple = ("apple","banana","cherry")
+single_item = ("apple",)
+print(my_tuple[1])
+print(my_tuple[0:2])
+new_tuple = tuple(["a","b"])
+print(single_item)
